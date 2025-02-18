@@ -45,6 +45,12 @@
         "projectId": "602d7a51-a300-4552-8eb7-54bebbda3964"
       }
     },
-    "owner": "ved525"
+    "owner": "ved525",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/602d7a51-a300-4552-8eb7-54bebbda3964"
+    }
   }
 }
